@@ -40,6 +40,7 @@ developed by saner
 ''')
 
 numara = int(input("Numarayı giriniz (+90) olmadan: "))
+threadsayi = int(input("Hız (500): "))
 mail = ''.join(choice(ascii_lowercase) for i in range(19))+"@gmail.com"
 
     # dsmartgo.com.tr
